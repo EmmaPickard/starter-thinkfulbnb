@@ -172,9 +172,9 @@ footer p {
     justify-content: space-between;
     align-content: center;
   }
-  .logo{
+  /* .logo{
     font-size: 40px;
-  }
+  } */
   #menu{
     padding-bottom: 12px;
   }
