@@ -86,11 +86,13 @@ header {
   background-color: #ff385c;
   padding: 20px 20px 0 20px;
   text-align: center;
+  
+
 }
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 72px;
+  font-size: 40px;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -172,9 +174,9 @@ footer p {
     justify-content: space-between;
     align-content: center;
   }
-  /* .logo{
-    font-size: 40px;
-  } */
+  .logo{
+    font-size: 72px;
+  }
   #menu{
     padding-bottom: 12px;
   }
