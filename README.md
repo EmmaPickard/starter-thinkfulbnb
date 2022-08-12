@@ -1,9 +1,9 @@
 # Thinkfulbnb
 ## https://emmapickard.github.io/thinkfulbnb/
 
-Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
+This assignment entailed utilizing flex box to create a landing page for a fake company. 
 
-For this assignment, I have implemented Thinkfulbnb's landing page in HTML & CSS.
+For this assignment, I have implemented Thinkfulbnb's landing page in HTML & CSS. Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
 
 ## Thinkfulbnb views
 
